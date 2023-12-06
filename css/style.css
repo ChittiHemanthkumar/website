@@ -4,6 +4,7 @@
 }
 .Bimage{
     height: 240px;
+    width:1345px;
     
     background: url("../images/Bimage.jpg"); 
     background-size: cover;
